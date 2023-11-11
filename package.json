@@ -1,0 +1,28 @@
+{
+  "name": "e2etesting_cypress_cucumber_hotelmanagementproject",
+  "version": "1.0.0",
+  "description": "E2E Testing using Cypress and Cucumber for Hotel Management Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install cypress --save-dev, npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhthuy/E2ETesting_Cypress_Cucumber_HotelManagementProject.git"
+  },
+  "keywords": [
+    "cypress",
+    "cucumber",
+    "e2etesting",
+    "automationtest"
+  ],
+  "author": "Ho Thi Hong Thuy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhthuy/E2ETesting_Cypress_Cucumber_HotelManagementProject/issues"
+  },
+  "homepage": "https://github.com/hhthuy/E2ETesting_Cypress_Cucumber_HotelManagementProject#readme",
+  "devDependencies": {
+    "cypress": "^13.5.0"
+  }
+}
